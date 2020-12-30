@@ -1,3 +1,5 @@
+## This code is a modified version of this project
+# https://github.com/thimotei/covid_underreporting
 library(dplyr)
 library(tidyr)
 library(ggplot2)
